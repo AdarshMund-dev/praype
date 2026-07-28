@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Praype
 
 AI Powered Interview Preparation Platform
@@ -17,6 +16,3 @@ Backend
 
 Database
 - PostgreSQL
-=======
-# praype
->>>>>>> f62cdd104ef7370877cbac50803962a220370fc0
